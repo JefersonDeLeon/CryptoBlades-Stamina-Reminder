@@ -1,5 +1,5 @@
 # CryptoBlades-Stamina-Reminder
-A simple Google Sheet reminder for CryptoBlades Stamina using Google Script.
+A simple Google Sheet reminder for CryptoBlades Stamina using Google App Script.
 
 How to Setup in your Google Account to avoid #ERROR
 1. open the google sheet link : https://docs.google.com/spreadsheets/d/1dEoCj4R6eNjPXwhPuw5XVMVh-nJuN74FM79QNlSakvk/edit?usp=sharing
