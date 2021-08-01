@@ -24,6 +24,5 @@ How to Setup in your Google Account.
 7.
 ![image](https://user-images.githubusercontent.com/15312428/127759807-3d14ba10-1ed5-4b45-9a26-3f1bcfd577aa.png)
 
-![Uploading image.png…]()
 
 8. 
