@@ -6,7 +6,7 @@ How to Setup in your Google Account to avoid #ERROR
 
 ![image](https://user-images.githubusercontent.com/15312428/127759554-a49676cf-c365-4ab1-b24a-47f2101c284f.png)
 
-2. Make a Copy beacase you can't edit my google sheet.
+2. Make a Copy because you can't edit my google sheet.
 ![image](https://user-images.githubusercontent.com/15312428/127759616-25e95cee-870d-44dd-9006-5a4b29828161.png)
 
 3. Rename and Saved to your drive by clicking OK button, and it will open your copy.
